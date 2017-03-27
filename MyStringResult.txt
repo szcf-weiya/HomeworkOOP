@@ -1,0 +1,40 @@
+Not only does this seem reasonable to me, but I maintain that it is what everywise man ought to say in similar circumstances; that he ought to banish to agreat distance the missionary who wants to instruct and baptise him all of asudden before the evidence is verified. Now I maintain that there is norevelation against which these or similar objections cannot be made, and withmore force than against Christianity. Hence it follows that if there is but onetrue religion and if every man is bound to follow it under pain of damnation,he must spend his whole life in studying, testing, comparing all thesereligions, in travelling throughthe countries in which they areestablished. No man is free from a man’s first duty; no one has a right todepend on another’s judgment. The artisan who earns his bread by his dailytoil, the ploughboy who cannot read, the delicate and timid maiden, theinvalid who can scarcely leave his bed, all without exception must study,consider, argue, travel over the whole world; there will be no more fixed and settled nations; the whole earth will swarm with pilgrims on their way, at great cost of time and trouble, to verify, compare, and examinefor themselves the various religions to be found. Then farewell to thetrades,the arts, the sciences of mankind, farewell to all peaceful occupations;there can be no study but that of religion, even the strongest, the most industrious, the most intelligent, the oldest, will hardly be able in his last years to know where he is; and it will be a wonder if he manages to find out what religion he ought to live by, before the hour of his death.
+--------------------------
+Number of each substring:
+num_es: 13
+num_wh: 12
+num_con: 1
+num_the: 27
+num_fore: 2
+num_tell: 1
+num_shed: 1
+num_nag: 1
+----------------------------
+Output in dictionary order: 
+another’s
+before
+circumstances
+consider
+countries
+does
+established
+intelligent
+manages
+oldest
+sciences
+strongest
+testing
+the
+their
+themselves
+there
+these
+they
+trades
+what
+where
+which
+who
+whole
+----------------------------
+Longest word: circumstances
