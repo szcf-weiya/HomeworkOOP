@@ -1,0 +1,29 @@
+# 作用
+
+## 访问权限
+public： 可以被任意实体访问
+protected：只允许子类及其本类的成员函数访问
+private：只允许本类的成员函数访问
+
+
+## 对于封装而言
+1. 用户代码（类外）只可以访问public成员而不能访问private成员；
+2. private成员只能由类成员（类内）和友元访问。
+
+# 对于继承而言
+1. protected成员可以被派生类对象访问，而不能被用户代码（类外）访问；
+
+
+# 意义
+控制访问权限和继承权限，方便封装，能够保护代码内部数据，有效提高代码效率。
+
+使用公共继承来反映is-a的关系。 这是继承的主要用途，特别是与虚拟函数相结合。 它允许重新使用界面，而不仅仅用新代码代替旧代码，还可以通过旧代码重新使用新的代码！ （因为运行时的虚函数调度）。
+
+在特殊情况下，使用私人继承来反映is-implemented-in-terms-of的关系。 这是一个通常过度使用的模式，通常可以通过组合（使用将要的基类作为数据成员）来达到相同的目标。
+
+protected能够实现类的多重责任，是client-dependent的，能够更好地拓展到子类。
+
+## 参考资料
+1. http://blog.csdn.net/zhouwei1221q/article/details/47953513
+2. http://blog.csdn.net/bupt_bu/article/details/9125317
+3. http://stackoverflow.com/questions/14414286/c-why-use-public-private-or-protected-inheritence

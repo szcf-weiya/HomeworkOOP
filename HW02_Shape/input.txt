@@ -1,0 +1,20 @@
+Circle 184.67
+Rectangle 191.69 265
+Rectangle 293.58 114.78
+Rectangle 57.05 244.64
+Circle 232.81
+Circle 99.61
+Circle 29.95
+Rectangle 54.36 48.27
+Circle 146.04
+Rectangle 2.92 1.53
+Rectangle 187.16 174.21
+Rectangle 54.47 198.95
+Rectangle 115.38 147.71
+Circle 199.12
+Circle 262.99
+Circle 98.94
+Circle 238.11
+Rectangle 176.73 303.33
+Rectangle 77.11 151.41
+Circle 68.68
